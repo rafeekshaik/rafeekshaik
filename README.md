@@ -2,6 +2,18 @@
   <img src="banner.png" alt="GitHub Banner" width="800"/>
 </div>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafeekshaik/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://topmate.io/rafeekshaik">
+    <img src="https://img.shields.io/badge/Topmate-Book%20a%20Call-green?logo=meetup&style=for-the-badge" alt="Topmate Badge" />
+  </a>
+  <a href="mailto:rafeekshaik365@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-rafeekshaik365@gmail.com-red?logo=gmail&style=for-the-badge" alt="Email Badge" />
+  </a>
+</p>
+
 # Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" /> I'm Rafeek Shaik
 
 ### 🚀 DevOps Engineer | AWS Specialist | Open to Opportunities
