@@ -90,31 +90,82 @@ I enjoy collaborating with developers to make infrastructure seamless, scalable,
 ## ⚙️ Skills Showcase
 
 <p align="left">
+
+  <!-- Cloud Platforms -->
   <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="36" height="36" alt="AWS" />
   </a>
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" height="36" alt="Azure" />
+  </a>
+
+  <!-- IaC / Automation -->
   <a href="https://www.terraform.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="36" height="36" alt="Terraform" />
   </a>
+  <a href="https://www.ansible.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="36" height="36" alt="Ansible" />
+  </a>
+
+  <!-- CI/CD & Quality -->
   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="36" height="36" alt="Jenkins" />
   </a>
+  <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank">
+    <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white&style=flat-square" height="36" alt="Azure DevOps" />
+  </a>
+  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank">
+    <img src="https://img.shields.io/badge/SonarQube-Code%20Quality-lightblue?logo=sonarqube&style=flat-square" height="36" alt="SonarQube" />
+  </a>
+
+  <!-- Containers -->
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
   </a>
   <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36" height="36" alt="Kubernetes" />
   </a>
+
+  <!-- Monitoring & Logging -->
+  <a href="https://www.elastic.co/what-is/elk-stack" target="_blank">
+    <img src="https://img.shields.io/badge/ELK-Logging-blueviolet?logo=elasticstack&logoColor=white&style=flat-square" height="36" alt="ELK" />
+  </a>
+  <a href="https://docs.aws.amazon.com/cloudwatch/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20CloudWatch-Monitoring-orange?logo=amazonaws&style=flat-square" height="36" alt="CloudWatch" />
+  </a>
+
+  <!-- Repo Management -->
+  <a href="https://www.sonatype.com/products/repository-oss" target="_blank">
+    <img src="https://img.shields.io/badge/Nexus-Artifacts-black?logo=sonatype&style=flat-square" height="36" alt="Nexus" />
+  </a>
+  <a href="https://jfrog.com/artifactory/" target="_blank">
+    <img src="https://img.shields.io/badge/JFrog-Artifactory-darkgreen?logo=jfrog&style=flat-square" height="36" alt="Artifactory" />
+  </a>
+
+  <!-- Security -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/IAM-Security-yellow?logo=lock&style=flat-square" height="36" alt="IAM" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/RBAC-Access%20Control-orange?style=flat-square" height="36" alt="RBAC" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/azure/key-vault/" target="_blank">
+    <img src="https://img.shields.io/badge/Azure%20Key%20Vault-Secrets-blue?logo=microsoftazure&style=flat-square" height="36" alt="Azure Key Vault" />
+  </a>
+
+  <!-- Scripting & Tools -->
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="Bash" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" height="36" alt="Bash" />
   </a>
+  <a href="https://maven.apache.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Maven-Build%20Tool-DC143C?logo=apachemaven&style=flat-square" height="36" alt="Maven" />
+  </a>
+
 </p>
+
 
 ---
 
