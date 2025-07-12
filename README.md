@@ -93,7 +93,7 @@ I enjoy collaborating with developers to make infrastructure seamless, scalable,
 
   <!-- Cloud -->
   <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" height="40" alt="AWS" />
   </a>
 
   <!-- IaC / Automation -->
@@ -104,7 +104,7 @@ I enjoy collaborating with developers to make infrastructure seamless, scalable,
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" />
   </a>
 
-  <!-- CI/CD & Code Quality -->
+  <!-- CI/CD & Quality -->
   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" />
   </a>
@@ -122,7 +122,7 @@ I enjoy collaborating with developers to make infrastructure seamless, scalable,
 
   <!-- Monitoring & Logging -->
   <a href="https://www.elastic.co/what-is/elk-stack" target="_blank">
-    <img src="https://img.shields.io/badge/-ELK%20Stack-005571?logo=elasticstack&logoColor=white&style=flat-square" height="40" alt="ELK" />
+    <img src="https://img.shields.io/badge/-ELK%20Stack-005571?logo=elasticstack&logoColor=white&style=flat-square" height="40" alt="ELK Stack" />
   </a>
   <a href="https://docs.aws.amazon.com/cloudwatch/" target="_blank">
     <img src="https://img.shields.io/badge/-CloudWatch-232F3E?logo=amazonaws&logoColor=white&style=flat-square" height="40" alt="CloudWatch" />
@@ -144,7 +144,7 @@ I enjoy collaborating with developers to make infrastructure seamless, scalable,
     <img src="https://img.shields.io/badge/-RBAC-orange?style=flat-square" height="40" alt="RBAC" />
   </a>
 
-  <!-- Scripting & OS -->
+  <!-- OS & Scripting -->
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
   </a>
