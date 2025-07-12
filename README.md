@@ -91,9 +91,9 @@ I enjoy collaborating with developers to make infrastructure seamless, scalable,
 
 <p align="left">
   <!-- AWS -->
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
-  </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" />
+</a>
 
   <!-- IaC / Automation -->
   <a href="https://www.terraform.io/" target="_blank">
