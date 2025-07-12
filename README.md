@@ -6,15 +6,13 @@
 # Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" /> I'm Rafeek Shaik
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafeekshaik/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rafeek%20Shaik-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
-  </a>
-  <a href="mailto:rafeekshaik365@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rafeekshaik365@gmail.com-d14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge" />
-  </a>
-</p>
 
+<a href="https://www.linkedin.com/in/rafeekshaik/">
+  <img src="https://img.shields.io/badge/LinkedIn-Rafeek%20Shaik-0a66c2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
+</a>
+<a href="mailto:rafeekshaik365@gmail.com">
+  <img src="https://img.shields.io/badge/Email-rafeekshaik365@gmail.com-d14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge" />
+</a>
 
 ### 🚀 DevOps Engineer | AWS Specialist | Open to Opportunities
 
