@@ -90,10 +90,12 @@ I enjoy collaborating with developers to make infrastructure seamless, scalable,
 ## ⚙️ Skills Showcase
 
 <p align="left">
-  <!-- Cloud & IaC -->
+  <!-- AWS -->
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
   </a>
+
+  <!-- IaC / Automation -->
   <a href="https://www.terraform.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" />
   </a>
@@ -114,7 +116,7 @@ I enjoy collaborating with developers to make infrastructure seamless, scalable,
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" />
   </a>
 
-  <!-- Scripting & Build -->
+  <!-- OS & Scripting -->
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
   </a>
@@ -125,11 +127,12 @@ I enjoy collaborating with developers to make infrastructure seamless, scalable,
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" alt="Maven" />
   </a>
 
-  <!-- SonarQube (non-Devicon PNG fallback) -->
+  <!-- SonarQube (fallback PNG) -->
   <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sonarqube_logo_icon_169248.png" width="40" height="40" alt="SonarQube" />
+    <img src="https://raw.githubusercontent.com/Haripalepu/rafeekshaik/main/assets/sonarqube.png" width="40" height="40" alt="SonarQube" />
   </a>
 </p>
+
 
 
 ---
