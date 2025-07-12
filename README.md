@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/rafeekshaik/rafeekshaik/blob/main/git_banner.png" alt="GitHub Banner" width="800"/>
+  <img src="banner.png" alt="GitHub Banner" width="800"/>
 </div>
 
 # Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" /> I'm Rafeek Shaik
@@ -14,30 +14,30 @@ If you’re hiring or know of an opportunity, feel free to connect!
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🌟 DevOps Engineer with **3.4+ years of experience** at **Tata Consultancy Services**  
-💡 Passionate about solving real-world problems using **cloud automation** and **containerization**  
-🧰 Skilled in **AWS**, **Terraform**, **Jenkins**, **Docker**, **Kubernetes**, and **Linux scripting**  
-📈 Achieved **40% deployment time reduction** and improved uptime to **99.9%**
+- 🌟 **DevOps Engineer with 3.4+ years of experience** at **Tata Consultancy Services**
+- 💡 Passionate about solving real-world problems using **cloud automation** and **containerization**
+- 🧰 Skilled in **AWS**, **Terraform**, **Jenkins**, **Docker**, **Kubernetes**, and **Linux scripting**
+- 📈 Achieved **40% deployment time reduction** and improved uptime to **99.9%**
 
 I enjoy collaborating with developers to make infrastructure seamless, scalable, and secure — whether it’s provisioning with IaC or monitoring with Prometheus/Grafana.
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
-- **Cloud**: AWS  
-- **Infrastructure as Code**: Terraform, Ansible  
-- **CI/CD Tools**: Jenkins, GitHub Actions  
-- **Containers & Orchestration**: Docker, Kubernetes  
-- **Monitoring**: Prometheus, Grafana  
-- **OS & Automation**: Linux, Shell, Bash, Python  
-- **Version Control**: Git
+- ☁️ **Cloud**: AWS  
+- 🧱 **IaC**: Terraform, Ansible  
+- 🔁 **CI/CD**: Jenkins, GitHub Actions  
+- 🐳 **Containers**: Docker, Kubernetes  
+- 📊 **Monitoring**: Prometheus, Grafana  
+- 🐧 **Scripting**: Linux, Shell, Bash, Python  
+- 🔧 **Version Control**: Git
 
 ---
 
-### 🛠️ What I Do
+## 🛠️ What I Do
 
 - 🔧 Build secure and repeatable infrastructure using **Terraform** on **AWS**
 - 🚀 Design CI/CD pipelines with **Jenkins** and **GitHub Actions** to streamline delivery
@@ -47,50 +47,37 @@ I enjoy collaborating with developers to make infrastructure seamless, scalable,
 
 ---
 
-### 💼 Experience Highlights
+## 💼 Experience Highlights
 
-- **System Engineer @ TCS (Mar 2023 – Present)**  
-  - Automated deployments using Terraform & Docker  
-  - Improved deployment speed by **40%**  
-  - Built CI/CD pipelines and integrated monitoring stack  
+### System Engineer @ TCS (Mar 2023 – Present)
+- Automated deployments using Terraform & Docker  
+- Improved deployment speed by **40%**  
+- Built CI/CD pipelines and integrated monitoring stack  
 
-- **Assistant System Engineer @ TCS (Mar 2022 – Mar 2023)**  
-  - Managed Linux servers and automated tasks with **Ansible**  
-  - Migrated legacy systems to AWS  
-  - Boosted system reliability by reducing manual errors by **30–40%**
+### Assistant System Engineer @ TCS (Mar 2022 – Mar 2023)
+- Managed Linux servers and automated tasks with Ansible  
+- Migrated legacy systems to AWS  
+- Boosted system reliability by reducing manual errors by **30–40%**
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 
 - 🎓 B.Tech, Civil Engineering – **JNTU Anantapur**  
 - 🎓 Diploma in Civil Engineering – **Govt. Polytechnic Nellore**
 
 ---
 
-### 🌍 Location & Contact
+## 🌍 Location & Contact
 
-- 🏠 Based in **Chennai, India**  
+- 📍 Chennai, India  
 - 📧 [rafeekshaik365@gmail.com](mailto:rafeekshaik365@gmail.com)  
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/rafeekshaik/)  
 - 💬 *Always open to collaboration, referrals, or a friendly tech chat!*
 
 ---
 
-### 🔗 Socials
-
-<p align="left">
-  <a href="https://github.com/rafeekshaik" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/rafeekshaik/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-</p>
-
----
-
-### ⚙️ Skills Showcase
+## ⚙️ Skills Showcase
 
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
@@ -105,4 +92,5 @@ I enjoy collaborating with developers to make infrastructure seamless, scalable,
 
 ---
 
-💬 *Let’s build reliable, automated, and efficient cloud platforms together!*
+Thanks for stopping by! 😊  
+*Let’s build something amazing in the cloud!*
