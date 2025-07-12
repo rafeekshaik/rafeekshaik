@@ -87,13 +87,13 @@ I enjoy collaborating with developers to make infrastructure seamless, scalable,
 
 ---
 
-## ⚙️ Skills Showcase
+### ⚙️ Skills Showcase
 
 <p align="left">
 
   <!-- Cloud -->
   <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" height="40" alt="AWS" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
   </a>
 
   <!-- IaC / Automation -->
@@ -104,12 +104,9 @@ I enjoy collaborating with developers to make infrastructure seamless, scalable,
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" />
   </a>
 
-  <!-- CI/CD & Quality -->
+  <!-- CI/CD -->
   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" />
-  </a>
-  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank">
-    <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=flat-square" height="40" alt="SonarQube" />
   </a>
 
   <!-- Containers -->
@@ -120,31 +117,31 @@ I enjoy collaborating with developers to make infrastructure seamless, scalable,
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" />
   </a>
 
-  <!-- Monitoring & Logging -->
+  <!-- Logging / Monitoring (custom images since no Devicon icon exists) -->
   <a href="https://www.elastic.co/what-is/elk-stack" target="_blank">
-    <img src="https://img.shields.io/badge/-ELK%20Stack-005571?logo=elasticstack&logoColor=white&style=flat-square" height="40" alt="ELK Stack" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40" alt="ELK Stack" />
   </a>
   <a href="https://docs.aws.amazon.com/cloudwatch/" target="_blank">
-    <img src="https://img.shields.io/badge/-CloudWatch-232F3E?logo=amazonaws&logoColor=white&style=flat-square" height="40" alt="CloudWatch" />
+    <img src="https://raw.githubusercontent.com/aws/aws-toolkit-vscode/master/resources/logo/cloudwatch.svg" width="40" height="40" alt="CloudWatch" />
   </a>
 
   <!-- Artifact Management -->
   <a href="https://www.sonatype.com/products/repository-oss" target="_blank">
-    <img src="https://img.shields.io/badge/-Nexus-3C3C3C?logo=sonatype&logoColor=white&style=flat-square" height="40" alt="Nexus" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Nexus_repository_manager_logo.png" width="40" height="40" alt="Nexus" />
   </a>
   <a href="https://jfrog.com/artifactory/" target="_blank">
-    <img src="https://img.shields.io/badge/-Artifactory-222222?logo=jfrog&logoColor=white&style=flat-square" height="40" alt="Artifactory" />
+    <img src="https://seeklogo.com/images/J/jfrog-logo-C5D302E7EF-seeklogo.com.png" width="40" height="40" alt="JFrog Artifactory" />
   </a>
 
-  <!-- Security -->
+  <!-- Security (custom placeholder icons) -->
   <a href="#" title="IAM">
-    <img src="https://img.shields.io/badge/-IAM-FFD700?logo=datadog&logoColor=black&style=flat-square" height="40" alt="IAM" />
+    <img src="https://static-00.iconduck.com/assets.00/lock-icon-2048x2048-xodq5yzv.png" width="40" height="40" alt="IAM" />
   </a>
   <a href="#" title="RBAC">
-    <img src="https://img.shields.io/badge/-RBAC-orange?style=flat-square" height="40" alt="RBAC" />
+    <img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" width="40" height="40" alt="RBAC" />
   </a>
 
-  <!-- OS & Scripting -->
+  <!-- OS / Scripting -->
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
   </a>
@@ -152,10 +149,16 @@ I enjoy collaborating with developers to make infrastructure seamless, scalable,
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />
   </a>
   <a href="https://maven.apache.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&logoColor=white&style=flat-square" height="40" alt="Maven" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" alt="Maven" />
+  </a>
+
+  <!-- Code Quality (SonarQube custom icon) -->
+  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank">
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sonarqube_logo_icon_169248.png" width="40" height="40" alt="SonarQube" />
   </a>
 
 </p>
+
 
 
 
